@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jamieprm1.github.io/sitemap.xml
